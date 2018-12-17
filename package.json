@@ -27,11 +27,13 @@
     "test": "node ./node_modules/vscode/bin/test"
   },
   "devDependencies": {
-    "typescript": "^2.6.1",
-    "vscode": "^1.1.22",
-    "eslint": "^4.11.0",
+    "@types/mocha": "^2.2.42",
     "@types/node": "^8.10.25",
-    "@types/mocha": "^2.2.42"
+    "@whizark/cz-cli": "^0.6.0",
+    "commitizen": "^3.0.5",
+    "eslint": "^4.11.0",
+    "typescript": "^2.6.1",
+    "vscode": "^1.1.22"
   },
   "dependencies": {
     "js-yaml": "^3.12.0"
