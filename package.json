@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "typescript": "^2.6.1",
-    "vscode": "^1.1.21",
+    "vscode": "^1.1.22",
     "eslint": "^4.11.0",
     "@types/node": "^8.10.25",
     "@types/mocha": "^2.2.42"
@@ -45,5 +45,13 @@
     "fold"
   ],
   "author": "Mike Ralphson",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeRalphson/fold-jmespath-vscode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MikeRalphson/fold-jmespath-vscode/issues"
+  },
+  "homepage": "https://github.com/MikeRalphson/fold-jmespath-vscode#readme"
 }
